@@ -1,1 +1,4 @@
 # testing
+
+logger:
+  level: DEBUG
