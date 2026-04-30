@@ -1,4 +1,4 @@
 # testing
 
 logger:
-  level: DEBUG
+  level: INFO
